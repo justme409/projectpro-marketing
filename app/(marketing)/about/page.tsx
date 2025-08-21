@@ -14,7 +14,7 @@ export default function AboutPage() {
           <section className="mb-12">
             <h2 className="text-2xl font-bold mb-4 text-slate-900">Our Mission</h2>
             <p className="text-slate-600 mb-6">
-              Streamline civil project QA by combining robust operational tools with focused AI assistance. Engineers should spend time building — not formatting documents.
+              Streamline civil project QA by combining robust operational tools with focused AI assistance. Allowing site and project engineers to spend more time finding opportunities for profit on the project.
             </p>
           </section>
           <section className="mb-12">
@@ -35,7 +35,7 @@ export default function AboutPage() {
               <div className="flex-1">
                 <h3 className="text-xl font-semibold text-slate-900 mb-2">Thomas Lynch (B.Eng (Civil)) — Founder</h3>
                 <p className="text-slate-600">
-                  I’m a civil and construction engineer focused on practical, reliable QA systems for delivery teams. I’ve worked across major transport infrastructure and utility programs with a strong emphasis on lot closure, NCR workflows, and drawing control. I started ProjectPro to bring modern, AI‑assisted tools to the everyday QA work that engineers actually do on site.
+                  I’m a civil and construction engineer focused on practical, reliable QA systems for delivery teams. I’ve worked across major transport infrastructure and utility programs with a strong emphasis on project controls and quality assurance. I started ProjectPro to bring modern, AI‑assisted tools to the everyday QA work that engineers actually do on site.
                 </p>
                 <h4 className="text-lg font-semibold text-slate-900 mt-4">Future Outlook</h4>
                 <p className="text-slate-600">
